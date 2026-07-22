@@ -119,3 +119,6 @@ Very low cost:
 Development cost: < US$20,000
 
 Monthly operational cost: ~US$200
+
+
+https://drive.google.com/file/d/1FUgn7Fq5IGxNViWpmz9XT4HAr7DJFb16/view?usp=sharing
